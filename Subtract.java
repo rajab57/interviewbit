@@ -1,3 +1,10 @@
+// Checkpoint 5 : 
+/*
+Given a singly linked list, modify the value of first half nodes such that :
+
+1st node’s new value = the last node’s value - first node’s current value
+2nd node’s new value = the second last node’s value - 2nd node’s current value,
+*/
 import java.util.ArrayList;
 import java.util.*;
 public class Subtract{
